@@ -54,7 +54,7 @@ Tests et corrections : identification et résolution des bugs, vérification du 
 
 Finalisation : optimisation, dernières modifications et préparation de la présentation du projet.
 
-6. Livrable attendu
+## 6. Livrable attendu
 
 À la fin du projet, les développeurs devront fournir un jeu vidéo fonctionnel, développé sur Unity, respectant les contraintes définies dans ce cahier des charges.
 
