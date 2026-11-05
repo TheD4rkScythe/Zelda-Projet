@@ -48,4 +48,14 @@ Son développement sera organisé en plusieurs étapes :
 
 1. **Conception :** définition du concept, des mécaniques de jeu et des fonctionnalités.
 2. **Préproduction :** préparation des ressources graphiques, organisation du projet Unity et mise en place de la structure du code.
-3. **Développement :
+3. **Développement :** programmation des fonctionnalités et création de l'environnement.
+
+Tests et corrections : identification et résolution des bugs, vérification du bon fonctionnement du jeu.
+
+Finalisation : optimisation, dernières modifications et préparation de la présentation du projet.
+
+6. Livrable attendu
+
+À la fin du projet, les développeurs devront fournir un jeu vidéo fonctionnel, développé sur Unity, respectant les contraintes définies dans ce cahier des charges.
+
+Le projet devra également pouvoir être présenté et testé dans le cadre du cours d'informatique.
