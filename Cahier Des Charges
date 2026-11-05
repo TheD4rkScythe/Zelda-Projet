@@ -23,6 +23,8 @@ La réalisation du jeu devra respecter les objectifs et contraintes suivants :
 - La programmation doit être réalisée en **C#**.
 - Le jeu doit adopter une perspective **2D isométrique**.
 - Le jeu doit être fonctionnel et jouable à la fin du projet.
+- Le jeu doit ressembler à Zelda Ocarina of Time
+- Il y aura un donjon de la nature avec des puzzles
 
 ### 3.2. Contraintes liées à l'établissement
 - L'environnement du jeu doit représenter l'établissement scolaire.
