@@ -42,7 +42,7 @@ Les fonctionnalités précises seront détaillées au fur et à mesure de l'avan
 
 ## 5. Planification du projet
 
-Le projet a officiellement débuté le **5 novembre 2026**.
+Le projet a officiellement débuté le **5 novembre 2026**, et devra être rendu pour **mi-mai**.
 
 Son développement sera organisé en plusieurs étapes :
 
@@ -58,4 +58,3 @@ Finalisation : optimisation, dernières modifications et préparation de la pré
 
 À la fin du projet, les développeurs devront fournir un jeu vidéo fonctionnel, développé sur Unity, respectant les contraintes définies dans ce cahier des charges.
 
-Le projet devra également pouvoir être présenté et testé dans le cadre du cours d'informatique.
